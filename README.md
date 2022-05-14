@@ -1,6 +1,6 @@
 - Hello, I’m @jwlee1221
-- I'm currently an EE student at the Cooper Union
-- My interests are sound design, signal processing, and running!
+- Currently studying Electrical Engineering at the Cooper Union
+<!--- - My interests are sound design, signal processing, and running! --->
 
 <!---
 jwlee1221/jwlee1221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
