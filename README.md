@@ -1,5 +1,5 @@
 - Hello, I’m @jwlee1221
-- Currently studying Electrical Engineering at the Cooper Union
+- Currently studying Electrical Engineering at the Cooper Union.
 <!--- - My interests are sound design, signal processing, and running! --->
 
 <!---
